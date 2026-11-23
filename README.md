@@ -62,9 +62,9 @@ Currently there is many things to be implemented such as
 - [ ] Changes in User Profile 
 
 ## Contribution
-#### Advait Gaur Contributed to the backend part using Django
-#### Bhavesh Aswani Contributed to the frontend part using HTML, CSS, JavaScript
-#### Aditya Kedia Contributed to the backend part using Django
-#### Anuj Chincholikar Contributed to the frontend part using HTML, CSS, JavaScript
+#### Rakibul Islam Contributed to the backend part using Django
+#### Farvez Contributed to the frontend part using HTML, CSS, JavaScript
+#### Amirul Contributed to the backend part using Django
+#### Ismail Contributed to the frontend part using HTML, CSS, JavaScript
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Advaitgaur004/Laundry_Service?utm_source=oss&utm_medium=github&utm_campaign=Advaitgaur004%2FLaundry_Service&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
